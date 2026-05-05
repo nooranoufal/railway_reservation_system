@@ -1,3 +1,9 @@
+# Railway Reservation System Project
+
+# Railway Reservation System
+
+total_seats = 10
+...
 import random
 TOTAL_SEATS = 10
 available_seats = list(range(1, TOTAL_SEATS +1))
